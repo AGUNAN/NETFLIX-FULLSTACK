@@ -9,7 +9,7 @@ A fully functional, responsive **Netflix Clone** built with the **MERN stack (Mo
 
 ### 📸 Screenshots
 ![one](./one.png)
-![two](./two/png)
+![two](./two.png)
 
 
 
